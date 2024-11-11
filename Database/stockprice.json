@@ -1,0 +1,11 @@
+{
+    "stock": [
+      { "symbol": "APPLE", "price": 150, "quantity": 10 },
+      { "symbol": "GOOGLE", "price": 250, "quantity": 10 },
+      { "symbol": "AMAZON", "price": 300, "quantity": 10 },
+      { "symbol": "USPOLO", "price": 100, "quantity": 10 },
+      { "symbol": "DOUBLE DHAMAKA", "price": 100, "quantity": 10 },
+      { "symbol": "SINGLE DHAMAKA", "price": 500, "quantity": 10 }      
+    ]
+  }
+  
